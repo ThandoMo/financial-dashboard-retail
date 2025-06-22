@@ -11,6 +11,13 @@ This project analyzes the monthly financial performance of three retail stores i
 
 ## 📁 Project Structure
 
+FinancialDashboard/
+├── data/
+│ └── retail_financials.xlsx
+├── analysis/
+│ └── finance_eda.ipynb
+├── README.md
+
 
 ## 📌 Key Insights
 
